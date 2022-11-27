@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    .headermenu {
+        position: absolute;
+        top: 100px;
+        letter-spacing: 1px;
+        font-family: 'Inter', sans-serif;
+        color: #626262;
+        left: 0;
+        text-transform: uppercase;
+
+    }
+    .li {
+        margin: 10px 0;
+    }
+}
+
+.h1 {
+    font-size: 20vw;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 90%;
+    margin: unset
+}
